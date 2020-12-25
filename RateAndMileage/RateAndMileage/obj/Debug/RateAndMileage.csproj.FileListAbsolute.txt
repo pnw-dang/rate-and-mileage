@@ -1,0 +1,10 @@
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\bin\Debug\RateAndMileage.exe.config
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\bin\Debug\RateAndMileage.exe
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\bin\Debug\RateAndMileage.pdb
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\obj\Debug\RateAndMileage.csprojAssemblyReference.cache
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\obj\Debug\RateAndMileage.Properties.Resources.resources
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\obj\Debug\RateAndMileage.csproj.GenerateResource.cache
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\obj\Debug\RateAndMileage.csproj.CoreCompileInputs.cache
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\obj\Debug\RateAndMileage.exe
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\obj\Debug\RateAndMileage.pdb
+C:\Users\toni_\source\repos\RateAndMileage\RateAndMileage\obj\Debug\RateAndMileage.RateAndMileage.resources
